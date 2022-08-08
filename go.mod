@@ -1,8 +1,5 @@
-module github.com/whosonfirst/go-writer-jsonl
+module github.com/whosonfirst/go-writer-jsonl/v2
 
 go 1.16
 
-require (
-	github.com/paulmach/orb v0.2.2
-	github.com/whosonfirst/go-writer v0.6.0
-)
+require github.com/whosonfirst/go-writer/v2 v2.0.0
