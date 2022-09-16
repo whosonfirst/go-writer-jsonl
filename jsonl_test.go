@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"context"
 	"fmt"
-	"github.com/whosonfirst/go-writer/v2"
+	"github.com/whosonfirst/go-writer/v3"
 	"strings"
 	"testing"
 )
