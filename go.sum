@@ -4,5 +4,5 @@ github.com/g8rswimmer/error-chain v1.0.0 h1:WnwnunlvqtGPHVHmBfbmUyAgrtag8Y6nNpwL
 github.com/g8rswimmer/error-chain v1.0.0/go.mod h1:XPJ/brUsL7yzc5VRlIxtf9GvoUqnOKVI9fg2MB5DWx8=
 github.com/natefinch/atomic v1.0.1 h1:ZPYKxkqQOx3KZ+RsbnP/YsgvxWQPGxjC0oBt2AhwV0A=
 github.com/natefinch/atomic v1.0.1/go.mod h1:N/D/ELrljoqDyT3rZrsUmtsuzvHkeB/wWjHV22AZRbM=
-github.com/whosonfirst/go-writer/v3 v3.0.0 h1:EyGed1mP60LbXYGTVqQl5PAkfUkLfczGOPcC9mcHTMQ=
-github.com/whosonfirst/go-writer/v3 v3.0.0/go.mod h1:TmYoKR7RvrzJaj3eOgMhgXHFE+R1yuO/4smxKHFhv14=
+github.com/whosonfirst/go-writer/v3 v3.1.1 h1:YFG/LUzqr8tNNV/rqqvACrMT2jaoXMEecjVusRE06jI=
+github.com/whosonfirst/go-writer/v3 v3.1.1/go.mod h1:vK1dX0is3i0rw890qSsRXqsUkWlmZX5qiedwf1vSbkE=
